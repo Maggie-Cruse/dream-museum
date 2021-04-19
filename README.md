@@ -1,4 +1,4 @@
-# turbo-meme
+# dream-museum
 Dream Museum
 
 Margaret Cruse is a digital technician working with code and new media to develop interactive experiences, looking at themes of embodiment, technology, and simulacra. 

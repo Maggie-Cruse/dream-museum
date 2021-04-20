@@ -1,0 +1,51 @@
+Assets used in game
+
+TEETH
+https://assetstore.unity.com/packages/3d/props/chattering-teeth-21589
+
+HENRY HOOVER
+https://skfb.ly/6VNNv
+
+TELEPORTERS
+https://assetstore.unity.com/packages/tools/custom-teleporter-pad-script-20098
+
+NOKIA
+https://skfb.ly/6WNzr
+
+PLAYER CAMERA + CHAIR
+https://assetstore.unity.com/packages/tools/input-management/first-person-all-in-one-135316
+
+TREES
+https://assetstore.unity.com/packages/3d/vegetation/trees/dream-forest-tree-105297
+
+GROUND MATERIALS
+https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001
+
+FARM HOUSE
+https://skfb.ly/6TW7N
+
+WAVE HOUSE
+https://skfb.ly/6WNS6
+
+WAVE
+https://skfb.ly/6qJn6
+
+HAND
+https://skfb.ly/6Vs7w
+
+FROG
+https://skfb.ly/6USP7
+
+DOG
+https://skfb.ly/6Up8H
+
+CATS
+https://skfb.ly/WQWQ
+https://skfb.ly/TKvY
+
+PEOPLE
+https://www.mixamo.com/
+
+CARS
+https://assetstore.unity.com/packages/3d/vehicles/land/police-car-helicopter-52496
+https://assetstore.unity.com/packages/3d/vehicles/land/stylized-vehicles-pack-free-150318

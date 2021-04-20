@@ -12,7 +12,7 @@ https://assetstore.unity.com/packages/tools/custom-teleporter-pad-script-20098
 NOKIA
 https://skfb.ly/6WNzr
 
-PLAYER CAMERA + CHAIR
+PLAYER CAMERA + COMPUTER
 https://assetstore.unity.com/packages/tools/input-management/first-person-all-in-one-135316
 
 TREES
@@ -21,11 +21,12 @@ https://assetstore.unity.com/packages/3d/vegetation/trees/dream-forest-tree-1052
 GROUND MATERIALS
 https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001
 
-FARM HOUSE
+HOUSEs
 https://skfb.ly/6TW7N
-
-WAVE HOUSE
 https://skfb.ly/6WNS6
+
+GAS STATION
+https://skfb.ly/6Wrzx
 
 WAVE
 https://skfb.ly/6qJn6
@@ -49,3 +50,7 @@ https://www.mixamo.com/
 CARS
 https://assetstore.unity.com/packages/3d/vehicles/land/police-car-helicopter-52496
 https://assetstore.unity.com/packages/3d/vehicles/land/stylized-vehicles-pack-free-150318
+
+SPIDER-MAN
+https://skfb.ly/6TRKG
+

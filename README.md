@@ -1,5 +1,5 @@
 # dream-museum
-Dream Museum
+<strong>Dream Museum</strong>
 
 Margaret Cruse is a digital technician working with code and new media to develop interactive experiences, looking at themes of embodiment, technology, and simulacra. 
 
@@ -7,5 +7,7 @@ Margaret Cruse is a digital technician working with code and new media to develo
 
 
 Specs:
-  Unity
-  Visual Studio C#
+<ul>
+  <li>Unity</li>
+  <li>Visual Studio C#</li>
+</ul>
